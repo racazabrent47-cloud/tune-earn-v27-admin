@@ -1,5 +1,5 @@
 name: tune_earn_v27_admin
-description: CEO ADMIN V2 - KITA MONITOR
+description: CEO ADMIN V2
 publish_to: 'none'
 version: 1.0.0+1
 environment:
@@ -7,7 +7,5 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_core: ^2.24.2
-  cloud_firestore: ^4.15.8
 flutter:
   uses-material-design: true
